@@ -1,3 +1,8 @@
+![components on breadboard 1](https://github.com/user-attachments/assets/5d1ede47-da76-4232-8688-e5806aea86a7)
+
+
+https://github.com/user-attachments/assets/ad7c3026-5107-43ad-ad03-d96fab2edc1f
+
 # height-and-distance
 Python (Programming Language), Math functions (for trigonometric calculations), Mathematical Formulas (Trigonometry, Pythagorean theorem), Arduino, Raspberry Pi, Sensors, Electronics, Problem Solving.
 Design a device that uses the Pythagorean theorem and basic trigonometry to accurately measure the height and distance of object in real- world applications.
